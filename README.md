@@ -16,3 +16,4 @@ You guesssed it, click [Wiki](https://github.com/davidgilbertson/about-github/wi
 You can track your feature requests, and allow users to vote, using GitHub issues. Describe the feature request, add an up and a down thumb. Then, with a link to your issues with the "Feature Request" label, you've got a feature voting system. Here's a short list of dummy [feature requests](https://github.com/davidgilbertson/about-github/labels/Feature%20Request).
 
 I first saw this done by [Scrimba](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+# It just a miniblog
